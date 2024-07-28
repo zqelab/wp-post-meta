@@ -1,0 +1,22 @@
+{
+    "name": "your-vendor-name/your-package-name",
+    "description": "A WordPress plugin to add meta fields with support for groups and repeatable fields.",
+    "type": "library",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zqe\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your-email@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

@@ -7,7 +7,7 @@ A WordPress plugin to add meta fields with support for groups and repeatable fie
 Use Composer to install:
 
 ```sh
-composer require your-vendor-name/your-package-name
+composer require zqelab/wp-post-meta
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-    "name": "your-vendor-name/your-package-name",
+    "name": "zqelab/wp-post-meta",
     "description": "A WordPress plugin to add meta fields with support for groups and repeatable fields.",
     "type": "library",
     "require": {
